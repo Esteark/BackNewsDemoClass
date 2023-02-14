@@ -3,7 +3,7 @@ const server = jsonServer.create();
 const router = jsonServer.router(`${__dirname}/data/db.json`);
 const middlewares = jsonServer.defaults();
 
-const port = 4000;
+const port = process.env.PORT || 4000;
 
 server.use((raq, res, next) => {
   res.header("Access-Control-Allow-Origin", "*");
