@@ -1,0 +1,43 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Chat GPT NOS deja sin trabajo",
+      "description": "Chat GPT crea una app react en 2 minutos",
+      "image": "https://i.blogs.es/d0a067/chat/1366_2000.jpeg",
+      "date": "2023/02/14",
+      "author": 1
+    },
+    {
+      "id": 2,
+      "title": "Un Ovni muy salve aparece",
+      "description": "Ovni en usa ha sido visto por todo estados unidos",
+      "image": "https://i.ytimg.com/vi/vS0kFUp-Nh4/maxresdefault.jpg",
+      "date": "2023/02/14",
+      "author": 1
+    },
+    {
+      "id": 3,
+      "title": "Noticia 3",
+      "description": "Alguna descripción",
+      "image": "https://reactjs.org/logo-og.png",
+      "date": "2023/02/14",
+      "author": 1
+    },
+    {
+      "id": 4,
+      "title": "Noticia 4",
+      "description": "Alguna descripción",
+      "image": "https://reactjs.org/logo-og.png",
+      "date": "2023/02/14",
+      "author": 1
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Pedrito Perez",
+      "phone": "3100000000"
+    }
+  ]
+}
