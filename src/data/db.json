@@ -37,7 +37,9 @@
     {
       "id": 1,
       "name": "Pedrito Perez",
-      "phone": "3100000000"
+      "phone": "3100000000",
+      "user": "pedrito",
+      "password": "12345678"
     }
   ]
 }
